@@ -1,0 +1,17 @@
+
+Wed May 10 07:13:47.257 UTC
+
+Interface                      IP-Address      Status          Protocol Vrf-Name
+Bundle-Ether5                  unassigned      Down            Down     default 
+Bundle-Ether5.100              unassigned      Down            Down     default 
+Loopback0                      10.0.0.1        Up              Up       default 
+Loopback6                      10.6.6.6        Up              Up       default 
+Loopback10                     10.10.10.10     Up              Up       default 
+MgmtEth0/RP0/CPU0/0            10.10.20.175    Up              Up       default 
+GigabitEthernet0/0/0/0         192.168.1.1     Down            Down     default 
+GigabitEthernet0/0/0/1         192.168.255.1   Down            Down     default 
+GigabitEthernet0/0/0/2         unassigned      Down            Down     default 
+GigabitEthernet0/0/0/3         unassigned      Shutdown        Down     default 
+GigabitEthernet0/0/0/4         unassigned      Shutdown        Down     default 
+GigabitEthernet0/0/0/5         unassigned      Shutdown        Down     default 
+GigabitEthernet0/0/0/6         unassigned      Shutdown        Down     default 
